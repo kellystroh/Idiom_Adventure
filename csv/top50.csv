@@ -1,0 +1,181 @@
+word,start_count,end_count,after,all_words
+management,24,26,"['team' 'company' 'style' 'firm' 'system' 'fee' 'skill' 'position' 'board'
+ 'official' 'agency' 'consulting' 'plan' 'program' 'role' 'change'
+ 'committee' 'tool' 'problem' 'issue' 'meeting']",50
+normal,43,12,"['life' 'people' 'time' 'person' 'level' 'human' 'rule' 'political'
+ 'thing' 'way' 'business' 'candidate' 'course' 'operation' 'part'
+ 'election' 'weight' 'rate' 'process' 'politician' 'roof' 'president'
+ 'practice' 'relation' 'behavior' 'condition' 'work' 'routine' 'country'
+ 'state' 'campaign' 'family' 'standard' 'activity' 'presidential'
+ 'childhood' 'democratic' 'head']",55
+written,23,27,"['statement' 'testimony' 'response' 'question' 'book' 'several' 'word'
+ 'law' 'record' 'policy' 'test' 'report' 'something' 'request' 'opinion'
+ 'letter' 'across' 'today' 'agreement' 'specifically' 'answer']",50
+wounded,9,11,['people' 'soldier' 'officer' 'veteran' 'man' 'hundred' 'another' 'victim'],20
+born,10,17,['citizen' 'outside' 'without' 'classified' 'female' 'male' 'free' 'today'],27
+star,24,58,"['power' 'player' 'turn' 'system' 'witness' 'turned' 'forward' 'wrote'
+ 'including' 'rating' 'within' 'known' 'wide' 'guard' 'posted' 'called']",82
+provides,18,8,"['free' 'service' 'expert' 'additional' 'support' 'access' 'health'
+ 'evidence' 'information' 'training' 'housing' 'strong' 'abortion'
+ 'financial']",26
+global,162,25,"['economy' 'market' 'financial' 'temperature' 'trade' 'community'
+ 'economic' 'elite' 'climate' 'health' 'power' 'war' 'leader' 'leadership'
+ 'security' 'stage' 'order' 'effort' 'business' 'affair' 'threat' 'oil'
+ 'audience' 'network' 'issue' 'reach' 'supply' 'terrorism' 'growth'
+ 'population' 'brand' 'terror' 'crisis' 'sport' 'average' 'competition'
+ 'event' 'medium' 'problem' 'politics' 'head' 'trend' 'operation'
+ 'governing' 'citizen' 'terrorist' 'demand' 'jihadist' 'conflict'
+ 'political' 'movement' 'challenge' 'attention' 'expansion' 'energy'
+ 'company' 'player' 'public' 'agreement' 'system' 'policy' 'role' 'city'
+ 'investment' 'news' 'institution' 'special' 'strategy' 'mean' 'interest'
+ 'coalition' 'concern' 'influence' 'response' 'impact' 'emission'
+ 'refugee' 'peace' 'marketing' 'bank' 'banking' 'charity' 'celebrity'
+ 'action' 'capital' 'outrage' 'force' 'level' 'chief' 'consensus' 'food'
+ 'internet' 'sale' 'right' 'standard' 'deal' 'nuclear' 'finance'
+ 'industry' 'stock' 'body' 'fight' 'box' 'corporate' 'asset' 'standing'
+ 'campaign' 'culture' 'military' 'success' 'trading' 'wealth'
+ 'environmental' 'recall' 'travel' 'sea' 'responsibility' 'hit'
+ 'emergency' 'consulting' 'conspiracy' 'free' 'appeal' 'price' 'arm'
+ 'society' 'government']",187
+support,89,185,"['among' 'group' 'behind' 'system' 'staff' 'network' 'abortion'
+ 'legislation' 'service' 'base' 'within' 'terrorism' 'woman' 'people'
+ 'local' 'either' 'come' 'gun' 'free' 'team' 'student' 'policy' 'marriage'
+ 'someone' 'candidate' 'across' 'effort' 'amnesty' 'program' 'law' 'since'
+ 'new' 'gay' 'family' 'came' 'immigration' 'police' 'open' 'legal'
+ 'former' 'banning' 'provided' 'role' 'building' 'animal' 'state'
+ 'terrorist' 'victim' 'research' 'beyond' 'democracy' 'everything'
+ 'allowing' 'center' 'without' 'universal' 'organization' 'life' 'mean'
+ 'increased' 'given' 'inside' 'claim' 'border' 'black' 'increasing'
+ 'reform' 'giving' 'measure' 'outside' 'necessary' 'civil' 'school'
+ 'worker' 'taking' 'liberal' 'transgender' 'another' 'tax']",274
+bar,18,38,"['citizen' 'owner' 'entry' 'people' 'elected' 'fight' 'federal' 'called'
+ 'area' 'code' 'discrimination' 'near' 'refugee']",56
+mile,22,11,"['away' 'per' 'north' 'south' 'east' 'west' 'outside' 'across' 'long'
+ 'wide' 'along' 'around' 'high' 'deep' 'without']",33
+daily,40,8,"['life' 'briefing' 'press' 'newspaper' 'routine' 'intelligence' 'news'
+ 'active' 'live' 'activity' 'user' 'flight' 'paper' 'operation' 'reality'
+ 'radio' 'report' 'struggle' 'show' 'average' 'business' 'protest'
+ 'fantasy' 'convention' 'prayer' 'email' 'walk']",48
+disabled,10,5,"['list' 'people' 'reporter' 'child' 'veteran' 'person' 'woman' 'man'
+ 'student' 'individual']",15
+martial,4,5,['art' 'law' 'artist' 'beat'],9
+legally,30,4,"['required' 'allowed' 'responsible' 'changed' 'possible' 'protected'
+ 'owned' 'blind' 'married' 'available' 'obtained' 'equal' 'work' 'avoid'
+ 'bought' 'purchase']",34
+gave,26,38,"['birth' 'way' 'rise' 'away' 'money' 'speech' 'people' 'voice' 'another'
+ 'little' 'everything' 'police' 'woman' 'state' 'back' 'every' 'interview'
+ 'new' 'hope' 'final' 'viewer' 'special' 'evidence']",64
+single,114,17,"['mother' 'market' 'person' 'woman' 'parent' 'word' 'time' 'thing'
+ 'largest' 'title' 'state' 'issue' 'vote' 'question' 'piece' 'shot' 'men'
+ 'candidate' 'event' 'currency' 'night' 'point' 'charge' 'game' 'moment'
+ 'people' 'individual' 'case' 'tweet' 'volunteer' 'player' 'country'
+ 'member' 'best' 'line' 'sentence' 'email' 'man' 'term' 'life' 'page'
+ 'season' 'poll' 'adult' 'company' 'reason' 'taxpayer' 'father' 'incident'
+ 'room' 'match' 'family' 'source' 'party' 'story' 'episode' 'election'
+ 'goal' 'national' 'attack' 'speech' 'dollar' 'judge' 'final' 'cell'
+ 'black' 'policy' 'image' 'count' 'student' 'bill' 'action' 'name'
+ 'figure' 'group' 'example' 'major' 'child' 'guy' 'file' 'human' 'minute'
+ 'presidential' 'hour' 'seat' 'bit' 'voter' 'nation' 'government' 'show'
+ 'bullet' 'new' 'topic' 'second' 'conservative' 'gold' 'step' 'delegate']",131
+militia,8,6,['group' 'member' 'leader' 'fighter' 'fighting' 'force' 'known'],14
+employer,7,18,['plan' 'coverage' 'added' 'must' 'pay'],25
+due,10,41,['process' 'back' 'date' 'course' 'time' 'next' 'later' 'largely'],51
+appropriate,23,8,"['response' 'action' 'time' 'way' 'step' 'authority' 'measure' 'level'
+ 'place' 'use' 'agency' 'legal' 'role' 'thing' 'security' 'policy']",31
+last,174,405,"['night' 'time' 'summer' 'season' 'fall' 'weekend' 'decade' 'thing' 'name'
+ 'minute' 'several' 'couple' 'seen' 'spring' 'word' 'major' 'century'
+ 'election' 'person' 'long' 'remaining' 'quarter' 'forever' 'moment'
+ 'debate' 'game' 'line' 'place' 'ten' 'winter' 'stand' 'presidential'
+ 'hour' 'known' 'administration' 'half' 'man' 'point' 'question' 'big'
+ 'show' 'film' 'visit' 'longer' 'saw' 'full' 'shot' 'hope' 'episode' 'bit'
+ 'part' 'round' 'best' 'stop' 'call' 'public' 'vote' 'great' 'second'
+ 'fiscal' 'act' 'president' 'generation' 'count' 'term' 'poll' 'step'
+ 'press' 'meeting' 'appearance' 'state' 'piece' 'scene' 'opportunity'
+ 'evening' 'tweet' 'song' 'album' 'possible' 'trip' 'guy' 'spoke' 'played'
+ 'book' 'fight' 'sentence' 'campaign' 'row' 'conversation' 'war' 'asking'
+ 'living' 'budget' 'official' 'movie' 'heard' 'people' 'post' 'group'
+ 'detail' 'hundred' 'appeared' 'message' 'primary' 'reader' 'job' 'voted'
+ 'news' 'held' 'wish' 'number' 'drop' 'member' 'met' 'significant' 'case'
+ 'page' 'among' 'race' 'worked' 'general' 'performance' 'effort' 'school'
+ 'dollar' 'item' 'push' 'political' 'truly' 'note' 'run' 'good' 'real'
+ 'candidate' 'turn' 'third' 'option' 'true' 'stage' 'event' 'reported'
+ 'ever' 'used' 'contested' 'speech']",579
+studio,7,14,['album' 'audience' 'behind' 'executive' 'apartment' 'system' 'space'],21
+opportunity,11,70,['cost' 'came' 'come' 'presented' 'right' 'available' 'across'],81
+clothing,6,4,['line' 'store' 'company' 'brand' 'item'],10
+grow,15,8,"['stronger' 'old' 'faster' 'older' 'increasingly' 'site' 'marijuana'
+ 'back' 'food' 'ever' 'together' 'beyond' 'larger']",23
+recording,10,11,"['studio' 'device' 'artist' 'obtained' 'released' 'video' 'conversation'
+ 'equipment']",21
+finished,18,6,"['second' 'third' 'fourth' 'product' 'high' 'fifth' 'yet' 'last'
+ 'speaking' 'tied' 'first' 'good' 'college' 'reading' 'writing' 'playing']",24
+remember,17,11,"['thinking' 'anything' 'exactly' 'seeing' 'feeling' 'hearing' 'going'
+ 'watching' 'whether' 'ever' 'sitting' 'something' 'getting' 'reading'
+ 'walking' 'thing' 'every']",28
+affordable,13,6,"['housing' 'health' 'coverage' 'unit' 'price' 'healthcare' 'option' 'home'
+ 'child' 'insurance' 'care' 'access' 'energy']",19
+reduced,11,8,"['sentence' 'risk' 'immigration' 'cost' 'federal' 'role' 'charge' 'rate'
+ 'regulation' 'spending' 'number']",19
+chemical,18,14,"['weapon' 'attack' 'agent' 'used' 'company' 'reaction' 'plant'
+ 'engineering' 'found' 'called' 'process' 'gas' 'burn']",32
+way,57,192,"['back' 'around' 'forward' 'people' 'home' 'toward' 'thing' 'possible'
+ 'beyond' 'across' 'past' 'better' 'since' 'onto' 'woman' 'clear' 'behind'
+ 'away' 'towards' 'le' 'without' 'inside' 'every' 'round' 'station' 'men'
+ 'north' 'worse' 'related' 'others' 'different' 'employee' 'right'
+ 'outside' 'police' 'anyone' 'life' 'bigger' 'human' 'black' 'politician'
+ 'along' 'race' 'similar' 'short' 'south' 'conservative' 'liberal'
+ 'immigration' 'meant' 'due']",249
+attacking,5,11,['people' 'police' 'woman' 'protester' 'former'],16
+mass,56,17,"['shooting' 'migration' 'murder' 'immigration' 'deportation' 'killing'
+ 'protest' 'medium' 'public' 'index' 'surveillance' 'market' 'execution'
+ 'movement' 'audience' 'arrest' 'production' 'sexual' 'violence'
+ 'unemployment' 'sex' 'killer' 'rape' 'evacuation' 'email' 'rally' 'civil'
+ 'appeal' 'culture' 'attack' 'panic' 'amnesty' 'voter' 'gathering'
+ 'homicide']",73
+becoming,20,15,"['president' 'increasingly' 'le' 'clear' 'law' 'involved' 'pregnant'
+ 'part' 'another' 'harder' 'prime' 'known' 'something' 'ever' 'reality']",35
+note,5,63,['read' 'written' 'sent' 'another' 'taken'],68
+forced,12,11,['labor' 'marriage' 'abortion' 'upon' 'entry' 'onto' 'back' 'evacuation'],23
+number,33,136,"['show' 'since' 'among' 'come' 'suggest' 'dropped' 'rose' 'needed' 'came'
+ 'released' 'listed' 'continue' 'rise' 'game' 'reflect' 'fell'
+ 'represents' 'increased' 'remain' 'around' 'includes' 'drop' 'showed'
+ 'seem' 'mean' 'reported' 'coming' 'keep' 'increase' 'get' 'stood']",169
+blame,7,11,['game' 'others' 'anyone' 'people' 'everything' 'onto'],18
+address,18,41,"['climate' 'concern' 'issue' 'question' 'whether' 'last' 'conflict' 'book'
+ 'problem' 'racial' 'global' 'system' 'current' 'immigration' 'used'
+ 'specific' 'listed']",59
+regularly,13,4,"['scheduled' 'used' 'work' 'called' 'attend' 'call' 'since' 'attended'
+ 'use' 'get']",17
+brown,9,4,['people' 'hair' 'eye' 'skin' 'sugar' 'paper'],13
+appointed,10,11,"['former' 'official' 'half' 'head' 'chief' 'deputy' 'attorney' 'special'
+ 'director']",21
+key,129,9,"['role' 'issue' 'part' 'point' 'state' 'player' 'question' 'figure' 'fact'
+ 'swing' 'factor' 'ally' 'member' 'difference' 'area' 'thing' 'reason'
+ 'position' 'moment' 'piece' 'campaign' 'word' 'witness' 'detail'
+ 'adviser' 'source' 'leader' 'city' 'policy' 'decision' 'national'
+ 'finding' 'step' 'feature' 'information' 'problem' 'political' 'way'
+ 'demographic' 'aide' 'event' 'concern' 'partner' 'demand' 'voting'
+ 'evidence' 'theme' 'post' 'driver' 'people' 'strategic' 'vote' 'foreign'
+ 'message' 'test' 'change' 'headline' 'military' 'location' 'official'
+ 'committee' 'staff' 'industry' 'business' 'goal' 'job' 'senator'
+ 'administration' 'challenge' 'group' 'country' 'card' 'economic' 'county'
+ 'claim' 'government' 'focus' 'voice' 'early' 'primary' 'statement'
+ 'chain' 'supporter' 'term' 'document' 'line' 'interest' 'election'
+ 'argument' 'leadership' 'asset' 'objective' 'conservative' 'lawmaker'
+ 'power' 'target' 'legal' 'sector' 'victory' 'tool' 'idea']",138
+conspiracy,4,15,['theory' 'charge' 'involving'],19
+male,55,21,"['student' 'colleague' 'friend' 'victim' 'character' 'voter' 'model'
+ 'relative' 'partner' 'actor' 'body' 'employee' 'candidate' 'suspect'
+ 'officer' 'leader' 'passenger' 'feminist' 'voice' 'role' 'member' 'lead'
+ 'sexual' 'worker' 'executive' 'migrant' 'child' 'politician' 'behavior'
+ 'teacher' 'reporter' 'college' 'artist' 'patient' 'fan' 'director'
+ 'mosquito' 'journalist' 'star' 'client' 'player' 'adult' 'couple']",76
+originally,38,5,"['appeared' 'scheduled' 'planned' 'published' 'intended' 'stated'
+ 'thought' 'reported' 'written' 'set' 'asked' 'wanted' 'posted' 'built'
+ 'filed' 'created' 'meant' 'expected' 'came' 'developed' 'called'
+ 'promised' 'introduced' 'proposed' 'brought' 'estimated' 'known' 'found'
+ 'claimed']",43
+seriously,20,18,"['injured' 'considering' 'ill' 'wounded' 'considered' 'consider' 'hurt'
+ 'enough' 'wrong' 'think' 'threatening' 'belief']",38
+apparent,24,7,"['lack' 'reason' 'effort' 'suicide' 'belief' 'terrorist' 'practice'
+ 'conflict' 'response' 'political' 'foreign' 'double']",31

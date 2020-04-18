@@ -1,0 +1,101 @@
+idx,PetId,EnrollDate,CancelDate,Species,Breed,AgeAtEnroll
+0,0,2015-08-11,2018-07-13,Dog,Mixed Breed,5 years old
+1,1,2014-02-15,2016-01-25,Cat,Mixed Breed,3 years old
+2,2,2014-12-20,,Dog,French Bulldog,8 weeks to 12 months old
+3,3,2015-01-09,2015-01-14,Dog,Mixed Breed,1 year old
+4,4,2014-07-20,,Cat,Mixed Breed,8 weeks to 12 months old
+5,5,2011-09-02,2014-05-07,Dog,Chihuahua,8 weeks to 12 months old
+6,6,2011-03-01,2013-10-07,Dog,Mixed Breed,8 weeks to 12 months old
+7,7,2017-10-09,,Dog,Chihuahua,1 year old
+8,8,2014-06-08,,Dog,Golden Retriever,8 weeks to 12 months old
+9,9,2015-10-04,2016-05-03,Dog,Mixed Breed,4 years old
+10,10,2015-10-27,2017-11-28,Cat,Mixed Breed,4 years old
+11,11,2016-06-26,2016-10-07,Cat,Mixed Breed,8 weeks to 12 months old
+12,12,2014-09-25,2014-09-29,Dog,Mixed Breed,8 weeks to 12 months old
+13,13,2019-07-15,,Cat,Mixed Breed,8 weeks to 12 months old
+14,14,2010-11-13,2018-09-06,Dog,Mixed Breed,7 years old
+15,15,2013-02-11,,Dog,Mixed Breed,7 years old
+16,16,2017-01-04,2019-04-10,Dog,Chihuahua,8 weeks to 12 months old
+17,17,2014-10-25,2015-02-06,Dog,Mixed Breed,8 weeks to 12 months old
+18,18,2012-07-03,2013-05-21,Dog,Mixed Breed,8 weeks to 12 months old
+19,19,2015-05-12,,Dog,Mixed Breed,8 weeks to 12 months old
+20,20,2019-11-11,,Dog,Golden Retriever,1 year old
+21,21,2010-11-05,2013-06-20,Dog,Mixed Breed,8 weeks to 12 months old
+22,22,2013-07-21,2013-10-10,Dog,Mixed Breed,3 years old
+23,23,2014-03-19,2014-12-30,Dog,Mixed Breed,8 weeks to 12 months old
+24,24,2017-03-22,2017-05-06,Dog,Golden Retriever,8 weeks to 12 months old
+25,25,2015-04-19,,Cat,Mixed Breed,8 weeks to 12 months old
+26,26,2013-03-22,2014-03-18,Dog,Mixed Breed,10 years old
+27,27,2019-05-02,,Dog,Chihuahua,9 years old
+28,28,2017-06-01,,Cat,Mixed Breed,1 year old
+29,29,2019-08-20,2019-10-01,Cat,Mixed Breed,2 years old
+30,30,2014-11-17,2015-11-20,Cat,Mixed Breed,1 year old
+31,31,2015-08-10,,Cat,Mixed Breed,7 years old
+32,32,2015-07-16,,Dog,Golden Retriever,8 weeks to 12 months old
+33,33,2016-05-14,2016-06-15,Cat,Mixed Breed,8 weeks to 12 months old
+34,34,2017-01-13,2018-07-30,Cat,Mixed Breed,8 weeks to 12 months old
+35,35,2016-11-02,2018-07-01,Cat,Mixed Breed,8 weeks to 12 months old
+36,36,2014-04-28,,Cat,Mixed Breed,8 weeks to 12 months old
+37,37,2012-03-01,2018-07-03,Dog,Mixed Breed,1 year old
+38,38,2018-05-01,,Dog,Mixed Breed,8 weeks to 12 months old
+39,39,2018-11-12,2018-11-27,Cat,Mixed Breed,3 years old
+40,40,2014-07-14,,Dog,Mixed Breed,3 years old
+41,41,2012-07-05,,Dog,Mixed Breed,8 weeks to 12 months old
+42,42,2012-10-26,2016-12-10,Dog,Chihuahua,4 years old
+43,43,2019-09-29,,Dog,Golden Retriever,8 weeks to 12 months old
+44,44,2014-12-11,,Cat,Mixed Breed,8 weeks to 12 months old
+45,45,2015-12-17,2019-02-25,Dog,Mixed Breed,1 year old
+46,46,2011-09-24,2012-05-31,Dog,Mixed Breed,8 weeks to 12 months old
+47,47,2011-02-19,2016-11-01,Cat,Mixed Breed,8 years old
+48,48,2014-08-04,2017-01-02,Dog,Mixed Breed,6 years old
+49,49,2012-03-16,,Cat,Mixed Breed,1 year old
+50,50,2015-12-20,,Dog,Mixed Breed,8 weeks to 12 months old
+51,51,2019-03-25,,Dog,Golden Retriever,8 weeks to 12 months old
+52,52,2012-02-17,,Dog,Mixed Breed,1 year old
+53,53,2015-12-08,2018-11-01,Dog,Mixed Breed,4 years old
+54,54,2018-12-11,,Cat,Mixed Breed,4 years old
+55,55,2017-10-13,2019-04-25,Cat,Mixed Breed,5 years old
+56,56,2018-07-04,2018-09-27,Dog,Golden Retriever,8 weeks to 12 months old
+57,57,2011-08-23,2015-01-30,Dog,Mixed Breed,8 years old
+58,58,2018-07-30,,Cat,Mixed Breed,8 weeks to 12 months old
+59,59,2010-07-24,2011-08-26,Cat,Mixed Breed,9 years old
+60,60,2012-10-18,,Cat,Mixed Breed,8 weeks to 12 months old
+61,61,2010-10-05,2014-02-10,Dog,Mixed Breed,8 weeks to 12 months old
+62,62,2013-01-14,,Cat,Mixed Breed,3 years old
+63,63,2011-12-13,2012-10-19,Dog,French Bulldog,8 weeks to 12 months old
+64,64,2014-07-02,,Dog,Mixed Breed,8 weeks to 12 months old
+65,65,2015-07-11,2015-08-28,Dog,Mixed Breed,8 weeks to 12 months old
+66,66,2012-07-17,,Dog,Mixed Breed,1 year old
+67,67,2010-06-08,,Dog,Golden Retriever,8 weeks to 12 months old
+68,68,2013-07-06,2015-11-15,Dog,Mixed Breed,8 weeks to 12 months old
+69,69,2010-01-10,2015-01-19,Cat,Mixed Breed,5 years old
+70,70,2013-12-21,2014-04-15,Dog,Mixed Breed,8 weeks to 12 months old
+71,71,2018-09-26,,Cat,Mixed Breed,3 years old
+72,72,2014-12-29,2016-11-23,Dog,Mixed Breed,5 years old
+73,73,2014-06-21,,Dog,Mixed Breed,8 weeks to 12 months old
+74,74,2015-01-31,,Dog,Mixed Breed,3 years old
+75,75,2013-04-16,2015-07-17,Dog,French Bulldog,11 years old
+76,76,2013-04-19,2019-05-15,Dog,Chihuahua,8 weeks to 12 months old
+77,77,2018-08-22,2018-09-12,Dog,Mixed Breed,1 year old
+78,78,2014-06-25,2016-03-29,Dog,French Bulldog,8 weeks to 12 months old
+79,79,2018-01-28,,Cat,Mixed Breed,2 years old
+80,80,2018-12-09,,Dog,Golden Retriever,1 year old
+81,81,2009-12-07,,Dog,Golden Retriever,8 weeks to 12 months old
+82,82,2010-06-28,2011-12-08,Dog,Mixed Breed,8 weeks to 12 months old
+83,83,2017-01-18,2017-10-17,Cat,Mixed Breed,5 years old
+84,84,2016-02-13,,Dog,Great Dane,8 weeks to 12 months old
+85,85,2019-05-10,,Cat,Mixed Breed,8 years old
+86,86,2017-08-08,2017-12-27,Dog,Chihuahua,7 years old
+87,87,2014-03-07,2017-12-07,Dog,Mixed Breed,8 weeks to 12 months old
+88,88,2014-04-21,,Dog,Mixed Breed,1 year old
+89,89,2011-08-19,,Dog,Mixed Breed,8 weeks to 12 months old
+90,90,2017-10-18,,Dog,Chihuahua,8 weeks to 12 months old
+91,91,2017-02-08,,Cat,Mixed Breed,8 weeks to 12 months old
+92,92,2015-08-29,,Cat,Mixed Breed,10 years old
+93,93,2011-04-29,,Dog,Mixed Breed,1 year old
+94,94,2016-06-02,,Dog,Mixed Breed,8 weeks to 12 months old
+95,95,2012-11-08,,Cat,Mixed Breed,8 weeks to 12 months old
+96,96,2015-09-11,,Cat,Mixed Breed,5 years old
+97,97,2018-08-29,2019-10-22,Cat,Mixed Breed,0-7 weeks old
+98,98,2015-02-03,,Dog,Mixed Breed,3 years old
+99,99,2012-02-18,2012-12-03,Dog,Mixed Breed,8 weeks to 12 months old
